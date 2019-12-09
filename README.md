@@ -22,9 +22,9 @@ back-end
 
 5- Aún no tengo creada la página de usuario autenticado.
 
-He tratado de hacer este prototipo de forma que se muestre lo más real posible al producto final con los medios
-disponibles y las necesidades del cliente. Para la futura entrega tendrá todo lo que he dicho anteriormente que 
-le falta a la web.
+He tratado de hacer este prototipo de forma que se muestre lo más real posible al producto final con los 
+medios disponibles y las necesidades del cliente. Para la futura entrega tendrá todo lo que he dicho 
+anteriormente que le falta a la web.
 ```
 
 ## Componentes:
