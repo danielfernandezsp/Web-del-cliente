@@ -83,3 +83,9 @@ correo del cliente. En la segunda fila un formulario de contacto.
   - Pasta: Es una página donde aparecen recetas de pasta.
   - Vegetariana: Es una página donde aparecen recetas vegetarianas.
   - Postres: Es una página donde aparecen recetas de postres.
+
+## Enlace de la web:
+
+```bash
+(https://danielfernandezsanchezpalencia.000webhostapp.com/dise%C3%B1oDIW/Web%20del%20cliente/)
+```
