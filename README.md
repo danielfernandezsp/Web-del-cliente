@@ -86,4 +86,4 @@ correo del cliente. En la segunda fila un formulario de contacto.
 
 ## Enlace de la web:
 
-[Las recetas de María José](https://danielfernandezsanchezpalencia.000webhostapp.com/dise%C3%B1oDIW/Web%20del%20cliente/)
+[Las recetas de María José](https://danielfernandezsanchezpalencia.000webhostapp.com/documentos/diw/web%20alumno%20bootstrap/)
